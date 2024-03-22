@@ -1,2 +1,3 @@
-# Project_SE_ikhlas
-ECommerce Website (HTML, CSS, BOOTSTRAP, PHP , JAVASCRIPT)
+# Software Egineering Project
+ECommerce Dyanmic Website
+HTML, CSS, BOOTSTRAP, JAVASCRIPT, PHP, MySQL
